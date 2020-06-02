@@ -48,6 +48,11 @@ module.exports = {
             .select('ong_id')
             .first();
 
+        
+        if(!incident){
+            return res.status(404).json({error: 'Incident not exist'});
+        }
+        
         if(ong_id !== incident.ong_id){
             return res.status(401).json({error: 'Operation not permitted'});
         }
