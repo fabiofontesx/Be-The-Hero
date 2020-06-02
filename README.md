@@ -32,7 +32,9 @@ Dentro da pasta frontend inicialmente execute o comando para baixar as dependenc
     yarn start
 ## Execução Mobile
 Antes de realizar a execução do projeto, realize o download do expo.
+
 [Expo Android](https://play.google.com/store/apps/details?id=host.exp.exponent)
+
 [Expo iOS](https://itunes.com/apps/exponent)
 
 Você também pode verificar a ótima documentação do expo e seu get-started [aqui](https://docs.expo.io/)
