@@ -1,4 +1,5 @@
-# Be The Hero
+![Be the Hero](https://raw.githubusercontent.com/fabiofontesx/Be-The-Hero/5b2a22760159dbab72a71c2f9b2c806c00f2d000/frontend/src/assets/logo.svg)
+
 O Be The Hero é uma aplicação que fornece o apoio no cadastro de incidentes pelas ONGS utilizadoras, para que estas possam receber ajuda dos denominados "Herois".
 O projeto é o resultado da Semana Omnistack11 realizada pela Rocketseat.
 [Site](https://rocketseat.com.br/)  [Github](https://github.com/rocketseat)
